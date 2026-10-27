@@ -1,5 +1,21 @@
 # @medusajs/framework
 
+## 2.22.2
+
+### Patch Changes
+
+- [#17527](https://github.com/medusajs/medusa/pull/17527) [`9d55082bf9706e45b148100808f4d4550b9105bc`](https://github.com/medusajs/medusa/commit/9d55082bf9706e45b148100808f4d4550b9105bc) Thanks [@shahednasser](https://github.com/shahednasser)! - chore(framework): update express-session to ^1.19.0
+
+- Updated dependencies [[`9d55082bf9706e45b148100808f4d4550b9105bc`](https://github.com/medusajs/medusa/commit/9d55082bf9706e45b148100808f4d4550b9105bc), [`6d38bc8773d8db0b928872f6376c3ee9196970ae`](https://github.com/medusajs/medusa/commit/6d38bc8773d8db0b928872f6376c3ee9196970ae), [`9d55082bf9706e45b148100808f4d4550b9105bc`](https://github.com/medusajs/medusa/commit/9d55082bf9706e45b148100808f4d4550b9105bc), [`9d55082bf9706e45b148100808f4d4550b9105bc`](https://github.com/medusajs/medusa/commit/9d55082bf9706e45b148100808f4d4550b9105bc), [`7b34df35bf8e57ce0d2ab2373a624dc2cc573ca5`](https://github.com/medusajs/medusa/commit/7b34df35bf8e57ce0d2ab2373a624dc2cc573ca5), [`c78a95a6e1fdf3967efbcddca9fa195d0e8c5817`](https://github.com/medusajs/medusa/commit/c78a95a6e1fdf3967efbcddca9fa195d0e8c5817), [`958ce349567b1c245688f6b97986a23447234d58`](https://github.com/medusajs/medusa/commit/958ce349567b1c245688f6b97986a23447234d58)]:
+  - @medusajs/telemetry@2.22.2
+  - @medusajs/cli@2.22.2
+  - @medusajs/utils@2.22.2
+  - @medusajs/deps@2.22.2
+  - @medusajs/types@2.22.2
+  - @medusajs/orchestration@2.22.2
+  - @medusajs/modules-sdk@2.22.2
+  - @medusajs/workflows-sdk@2.22.2
+
 ## 2.22.1
 
 ### Patch Changes

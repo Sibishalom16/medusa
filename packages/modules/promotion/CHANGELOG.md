@@ -1,5 +1,14 @@
 # @medusajs/promotion
 
+## 2.22.2
+
+### Patch Changes
+
+- [#17514](https://github.com/medusajs/medusa/pull/17514) [`4beaf521c5c559a152d49060881dbdf9f9ca71d5`](https://github.com/medusajs/medusa/commit/4beaf521c5c559a152d49060881dbdf9f9ca71d5) Thanks [@medusa-os-bot](https://github.com/apps/medusa-os-bot)! - fix(promotion): require a non-null max_quantity for each and once allocations
+
+- Updated dependencies [[`9d55082bf9706e45b148100808f4d4550b9105bc`](https://github.com/medusajs/medusa/commit/9d55082bf9706e45b148100808f4d4550b9105bc)]:
+  - @medusajs/framework@2.22.2
+
 ## 2.22.1
 
 ### Patch Changes

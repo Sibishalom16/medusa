@@ -1,5 +1,14 @@
 # @medusajs/inventory-next
 
+## 2.22.2
+
+### Patch Changes
+
+- [#17509](https://github.com/medusajs/medusa/pull/17509) [`c7dd4e573792ae0a0ba9039b0afd5855604e8199`](https://github.com/medusajs/medusa/commit/c7dd4e573792ae0a0ba9039b0afd5855604e8199) Thanks [@medusa-os-bot](https://github.com/apps/medusa-os-bot)! - fix(inventory): don't add reserved quantity again when restoring live reservations
+
+- Updated dependencies [[`9d55082bf9706e45b148100808f4d4550b9105bc`](https://github.com/medusajs/medusa/commit/9d55082bf9706e45b148100808f4d4550b9105bc)]:
+  - @medusajs/framework@2.22.2
+
 ## 2.22.1
 
 ### Patch Changes

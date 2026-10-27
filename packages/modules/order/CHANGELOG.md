@@ -1,5 +1,14 @@
 # @medusajs/order
 
+## 2.22.2
+
+### Patch Changes
+
+- [#17510](https://github.com/medusajs/medusa/pull/17510) [`7d397514ebf10b18b728e554734e4458a9980d68`](https://github.com/medusajs/medusa/commit/7d397514ebf10b18b728e554734e4458a9980d68) Thanks [@medusa-os-bot](https://github.com/apps/medusa-os-bot)! - fix(order): limit claim write-offs and reinstates to the remaining quantity
+
+- Updated dependencies [[`9d55082bf9706e45b148100808f4d4550b9105bc`](https://github.com/medusajs/medusa/commit/9d55082bf9706e45b148100808f4d4550b9105bc)]:
+  - @medusajs/framework@2.22.2
+
 ## 2.22.1
 
 ### Patch Changes
